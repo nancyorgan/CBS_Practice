@@ -17,3 +17,9 @@ Now Nancy does:
 ```
 $ git pull origin master
 ```
+
+In case of a merge conflict when trying to push:
+- Do a pull
+- Manage conflicts 
+- Remove markers of the conflicts (>>>> and ======) 
+- Push again 
