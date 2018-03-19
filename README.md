@@ -26,3 +26,6 @@ In case of a merge conflict when trying to push:
 
 ## Homework:
 Create branches with new content. Next Monday, we will work with these. 
+
+## Upcoming to-dos
+- Private repos? 
