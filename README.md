@@ -23,3 +23,6 @@ In case of a merge conflict when trying to push:
 - Manage conflicts 
 - Remove markers of the conflicts (>>>> and ======) 
 - Push again 
+
+## Homework:
+Create branches with new content. Next Monday, we will work with these. 
