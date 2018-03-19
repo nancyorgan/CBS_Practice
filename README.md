@@ -1,4 +1,4 @@
-# CBS_Practice
+# CBS Practice
 
 ### This is documentation of Sarah and Nancy's pilot GitHub project
 
