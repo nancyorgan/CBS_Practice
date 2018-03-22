@@ -34,6 +34,9 @@ $ git push origin branch-name
 $
 ```
 
+### Returning to the master branch
+
+
 ## Homework:
 Create branches with new content. Next Monday, we will work with these. 
 
