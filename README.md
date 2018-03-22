@@ -1,11 +1,9 @@
 # CBS Practice
+This is documentation of Sarah and Nancy's pilot GitHub project
 
-### This is documentation of Sarah and Nancy's pilot GitHub project
-
-Sarah has done this so far:
+### Basic navigating, adding, and pushing
 ```
-$ cd /Users/smonsell/Dropbox/Work/CBS/GitHub\ test 
-$ cd CBS_Practice/
+$ cd your_directory_here
 $ ls
 $ git add .
 $ git status
@@ -13,16 +11,22 @@ $ gitcommit -m "I made an edit. Yay."
 $ git push
 ```
 
-Now Nancy does:
+### Pulling from master
 ```
 $ git pull origin master
 ```
 
-In case of a merge conflict when trying to push:
+### Dealing with merge conflicts 
 - Do a pull
 - Manage conflicts 
 - Remove markers of the conflicts (>>>> and ======) 
 - Push again 
+
+### Creating a branch
+$ git checkout -b branch-name
+$ git add . 
+$ git commit -m "your message"
+$ git push origin branch-name
 
 ## Homework:
 Create branches with new content. Next Monday, we will work with these. 
