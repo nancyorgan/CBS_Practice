@@ -23,10 +23,16 @@ $ git pull origin master
 - Push again 
 
 ### Creating a branch
+```
 $ git checkout -b branch-name
 $ git add . 
 $ git commit -m "your message"
 $ git push origin branch-name
+```
+### Returning to the master
+```
+$
+```
 
 ## Homework:
 Create branches with new content. Next Monday, we will work with these. 
