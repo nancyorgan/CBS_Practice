@@ -1,10 +1,1 @@
-# This is a practice run, authored by Nancy
-###This is a brand new line
-# This is an example, authored by Nancy
-##This is a test, authored by Sarah
-
-## Nancy added these changes when she created her new branch, nancy-branch1
-
-# New Monday changes
-
-# Nancy is making branch changes to HER BRANCH to commit to MASTER on MONDAY
+# This is the master now. 

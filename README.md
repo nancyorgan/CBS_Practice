@@ -32,7 +32,7 @@ $ git push origin branch-name
 ### Returning to the master to make a commit
 ```
 $ git checkout master
-$ git pull the-branch-you-want-to-pull-from
+$ git pull the-branch-you-want-t-pull-from
 $ git add .
 $ git commit -m "your message"
 $ git push origin master
@@ -49,7 +49,7 @@ press "i"
 write your merge message
 press "esc"
 write ":wq"
-then press enter
+then press ent
 
 ## Homework:
 Create branches with new content. Next Monday, we will work with these. 
