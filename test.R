@@ -1,7 +1,4 @@
-# This is a practice run, authored by Nancy
-###This is a brand new line
-# This is an example, authored by Nancy
-##This is a test, authored by Sarah
+# This is the master now.
 
 #Pretend this is a fancy function
 #with a lot of packages
@@ -9,9 +6,5 @@
 #but no RC tokens
 #TESTING without Rhistory
 
-# Nancy is making a changes to Sarah’s branch!
 
-## Nancy added these changes when she created her new branch, nancy-branch1
-
-# New Monday changes
 
