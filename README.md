@@ -44,6 +44,13 @@ $ git branch
 ```
 The starred repo is the current one. 
 
+#### When you forgot to pull 
+press "i"
+write your merge message
+press "esc"
+write ":wq"
+then press enter
+
 ## Homework:
 Create branches with new content. Next Monday, we will work with these. 
 
