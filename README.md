@@ -38,6 +38,12 @@ $ git commit -m "your message"
 $ git push origin master
 ```
 
+### To check which branch you're on:
+``` 
+$ git branch
+```
+The starred repo is the current one. 
+
 ## Homework:
 Create branches with new content. Next Monday, we will work with these. 
 
