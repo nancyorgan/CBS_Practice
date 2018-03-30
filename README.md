@@ -51,8 +51,12 @@ press "esc"
 write ":wq"
 then press ent
 
-## Homework:
-Create branches with new content. Next Monday, we will work with these. 
+## Committing a branch file to the master:
+https://www.sap.com/developer/tutorials/webide-github-merge-pull-request.html
 
 ## Upcoming to-dos
 - Private repos? 
+
+
+
+
