@@ -56,7 +56,3 @@ https://www.sap.com/developer/tutorials/webide-github-merge-pull-request.html
 
 ### Upcoming to-dos
 - Private repos? 
-
-
-
-
