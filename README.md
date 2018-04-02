@@ -54,5 +54,18 @@ then press ent
 ### Committing a branch file to the master:
 https://www.sap.com/developer/tutorials/webide-github-merge-pull-request.html
 
+```
+$ git checkout your-branch
+$ git add . 
+$ git commit -m “message”
+$ git push
+
+$ git checkout master
+$ git pull origin master
+$ git merge your-branch -m “comment”
+$ git push
+```
+
+
 ### Upcoming to-dos
 - Private repos? 
