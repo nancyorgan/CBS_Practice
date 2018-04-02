@@ -73,3 +73,12 @@ $ git push
 ```
 $ git clone url-of-forked-repo
 ```
+### Updating your fork to match updated original
+https://help.github.com/articles/merging-an-upstream-repository-into-your-fork/
+…starting in YOUR FORK’s repo on your machine
+```
+$ git checkout master
+$ git pull https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git BRANCH_NAME
+$ git push
+```
+
