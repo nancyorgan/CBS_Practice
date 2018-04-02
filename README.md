@@ -44,17 +44,17 @@ $ git branch
 ```
 The starred repo is the current one. 
 
-#### When you forgot to pull 
+### When you forgot to pull 
 press "i"
 write your merge message
 press "esc"
 write ":wq"
 then press ent
 
-## Committing a branch file to the master:
+### Committing a branch file to the master:
 https://www.sap.com/developer/tutorials/webide-github-merge-pull-request.html
 
-## Upcoming to-dos
+### Upcoming to-dos
 - Private repos? 
 
 
