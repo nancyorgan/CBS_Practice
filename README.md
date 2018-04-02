@@ -64,8 +64,12 @@ $ git checkout master
 $ git pull origin master
 $ git merge your-branch -m “comment”
 $ git push
+
 ```
 
-
-### Upcoming to-dos
-- Private repos? 
+### Forking a repo
+- First, fork from the GitHub page of the repo you’d like
+- Navigate to directory on your machine
+```
+$git clone url-of-forked-repo
+```
